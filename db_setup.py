@@ -1,5 +1,5 @@
 """
-Module to setup the database.
+Module to set up the database.
 """
 
 import sqlite3 as sql

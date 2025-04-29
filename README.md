@@ -1,7 +1,6 @@
 ### Implementation Steps
 
-- [ ] Master Password Authentication
-- [ ] Access Passwords via Master
+- [x] Access Passwords via Primary Password
 - [ ] Setup UI with Rich
 - [ ] Sync across Devices using a history (DELETE, UPDATE, CREATE)
 - [ ] Use platform-specific login methods (e.g. fingerprint)
